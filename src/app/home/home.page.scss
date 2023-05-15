@@ -36,7 +36,7 @@
 
 
 .dato{
-  width: 60%;
+  width: 100%;
   margin: 1%;
   border-radius: 20px;
 
@@ -65,9 +65,13 @@ border-radius: 21px;
 }
 .formulario{
   border-radius: 20px; 
+  align-items: center;
+  width: 100%;
+  
+ 
 }
 .mostrar{
-  border-radius: 20px;
+  border-radius: 0px;
   align-items: center;
 }
 
