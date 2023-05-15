@@ -5,4 +5,12 @@ export interface Item{
   id:string;
 }
 
+export interface Datos{
+  id:string
+  NombrePlato:string
+  precio:number
+  calificacion: number
+  foto:string  
+}
+
 
